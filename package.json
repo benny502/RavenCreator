@@ -1,0 +1,17 @@
+{
+  "name": "my-card-generator",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "element-ui": "2.15.14",
+    "html2canvas": "1.4.1",
+    "vue": "2.7.14"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "4.5.19",
+    "vue-template-compiler": "2.7.14"
+  }
+}
